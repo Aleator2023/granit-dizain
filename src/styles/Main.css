@@ -24,6 +24,15 @@
   display: block;
 }
 
+
+
+/* 👇 Правило только для первого слайда с логотипом */
+.slide:first-child img {
+  object-fit: contain;
+  background-color: #fff; /* если фон нужен */
+  padding: 20px;
+}
+
 .slide-content {
   position: absolute;
   bottom: 0;
@@ -82,3 +91,18 @@
  
 }
 
+@media (max-width: 768px) {
+  .slide-content p {
+    font-size: 1.2rem;
+  }
+
+  .slide-content button {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+
+  .main-slider,
+  .slide {
+    height: 50vh;
+  }
+}
