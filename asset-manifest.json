@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/granit-dizain/static/css/main.7a0bebad.css",
+    "main.css": "/granit-dizain/static/css/main.11d52387.css",
     "main.js": "/granit-dizain/static/js/main.48e11ace.js",
     "static/js/488.411ccbc9.chunk.js": "/granit-dizain/static/js/488.411ccbc9.chunk.js",
     "static/media/logo.png": "/granit-dizain/static/media/logo.ca3f508569ca981c1f80.png",
@@ -30,12 +30,12 @@
     "static/media/slick.woff": "/granit-dizain/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/granit-dizain/index.html",
     "static/media/menu-icon.svg": "/granit-dizain/static/media/menu-icon.f6af176f698670de601686bb500b4b18.svg",
-    "main.7a0bebad.css.map": "/granit-dizain/static/css/main.7a0bebad.css.map",
+    "main.11d52387.css.map": "/granit-dizain/static/css/main.11d52387.css.map",
     "main.48e11ace.js.map": "/granit-dizain/static/js/main.48e11ace.js.map",
     "488.411ccbc9.chunk.js.map": "/granit-dizain/static/js/488.411ccbc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a0bebad.css",
+    "static/css/main.11d52387.css",
     "static/js/main.48e11ace.js"
   ]
 }
