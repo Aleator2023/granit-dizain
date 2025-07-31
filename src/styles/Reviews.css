@@ -1,0 +1,81 @@
+.reviews-section {
+  background-color: #f8f4f0;
+  padding: 60px 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.reviews-title {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 40px;
+  color: #333;
+}
+
+.review-card {
+  background: white;
+  padding: 25px;
+  margin: 0 15px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+  height: 100%;
+  min-height: 180px;
+  min-width: 280px;
+  max-width: 350px;
+  display: flex;
+  flex-direction: row; /* изменили на горизонтальную раскладку */
+  align-items: flex-start;
+  gap: 20px;
+  box-sizing: border-box;
+}
+
+.review-avatar {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.review-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.review-text {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.review-name {
+  font-weight: bold;
+  color: #111;
+  font-size: 0.9rem;
+  text-align: right;
+}
+
+/* Убираем прилипание карточек */
+.slick-slide {
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.review-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 10px;
+}
+
+.review-avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}

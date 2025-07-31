@@ -1,0 +1,24 @@
+.about-section {
+  background-color: #FDF7F0; 
+color: #1D1D1D;
+  padding: 60px 20px;
+}
+
+.about-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  color: #333;
+  text-align: left;
+}
+
+.about-container h2 {
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.about-container p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
