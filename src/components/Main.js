@@ -29,6 +29,7 @@ const Main = () => {
     slidesToShow: 1,
     slidesToScroll: 1,
     fade: true,
+    pauseOnHover: false,
   };
 
   return (
