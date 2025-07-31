@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/granit-dizain/static/css/main.4ef1e4e2.css",
+    "main.js": "/granit-dizain/static/js/main.709e656e.js",
+    "static/js/488.411ccbc9.chunk.js": "/granit-dizain/static/js/488.411ccbc9.chunk.js",
+    "static/media/logo.png": "/granit-dizain/static/media/logo.50e8d52ccb0264058db2.png",
+    "static/media/andrey.png": "/granit-dizain/static/media/andrey.f67a2796f58843292d22.png",
+    "static/media/tan.png": "/granit-dizain/static/media/tan.7014734e7f4b69a76bc6.png",
+    "static/media/olga.png": "/granit-dizain/static/media/olga.c0de4f6f2dde9e5be2c8.png",
+    "static/media/serg.png": "/granit-dizain/static/media/serg.b9c9225cab413031eb10.png",
+    "static/media/photo4.png": "/granit-dizain/static/media/photo4.8f5237caeaeb2d95a9f1.png",
+    "static/media/photo3.png": "/granit-dizain/static/media/photo3.adf431917ca0263e677e.png",
+    "static/media/photo1.png": "/granit-dizain/static/media/photo1.b8b39d0a19eb67bb412f.png",
+    "static/media/irina.png": "/granit-dizain/static/media/irina.b967e8cf7b9b0c680715.png",
+    "static/media/dmitry.png": "/granit-dizain/static/media/dmitry.7e3c90f4cf7f059918e8.png",
+    "static/media/photo2.png": "/granit-dizain/static/media/photo2.6eb2f6ac8a9df7b9c443.png",
+    "static/media/favicon.png": "/granit-dizain/static/media/favicon.04f130325a8edc7015f9.png",
+    "static/media/photo1.JPG": "/granit-dizain/static/media/photo1.8fd59d412d0888ae90d1.JPG",
+    "static/media/photo3.JPG": "/granit-dizain/static/media/photo3.001e099449547bb4d1be.JPG",
+    "static/media/photo4.JPG": "/granit-dizain/static/media/photo4.767bf56ac33660fa8747.JPG",
+    "static/media/photo7.JPG": "/granit-dizain/static/media/photo7.afddaf60da4203d79d43.JPG",
+    "static/media/photo2.JPG": "/granit-dizain/static/media/photo2.2a1d1b2997574d95513e.JPG",
+    "static/media/photo6.JPG": "/granit-dizain/static/media/photo6.8dbc2a870420317ea49e.JPG",
+    "static/media/photo5.JPG": "/granit-dizain/static/media/photo5.19158294fd55b47da601.JPG",
+    "static/media/photo8.JPG": "/granit-dizain/static/media/photo8.235a96ff7c29155e6187.JPG",
+    "service-worker.js": "/granit-dizain/service-worker.js",
+    "static/media/slick.svg": "/granit-dizain/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/granit-dizain/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/granit-dizain/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/granit-dizain/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/granit-dizain/index.html",
+    "main.4ef1e4e2.css.map": "/granit-dizain/static/css/main.4ef1e4e2.css.map",
+    "main.709e656e.js.map": "/granit-dizain/static/js/main.709e656e.js.map",
+    "488.411ccbc9.chunk.js.map": "/granit-dizain/static/js/488.411ccbc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ef1e4e2.css",
+    "static/js/main.709e656e.js"
+  ]
+}
