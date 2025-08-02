@@ -8,6 +8,7 @@ import About from '../src/components/About.js';
 import Products from '../src/components/Products.js';
 import Reviews from '../src/components/Reviews.js';
 import Footer from "./components/Footer.js";
+import VideoGallery from "./components/VideoGallery.js";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Main />
       <About />
       <Products />
+      <VideoGallery />
       <Reviews />
       <Footer />
     </div>

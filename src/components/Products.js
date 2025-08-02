@@ -15,10 +15,10 @@ const productItems = [
   { img: img2, title: 'Красный камень' },
   { img: img3, title: 'Гранитные ступени' },
   { img: img4, title: 'Плиты' },
-  { img: img5, title: 'Бордюры' },
-  { img: img6, title: 'Мраморные изделия' },
+  { img: img5, title: 'Парамет' },
+  { img: img6, title: 'Мансуровский гранит' },
   { img: img7, title: 'Каменные столешницы' },
-  { img: img8, title: 'Декоративные элементы' },
+  { img: img8, title: 'Подоконники' },
 ];
 
 const Products = () => {

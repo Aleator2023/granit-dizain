@@ -1,0 +1,36 @@
+
+.video-gallery {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 16px;
+  padding: 40px 20px;
+}
+
+.video-item {
+  width: 100%;
+  border-radius: 10px;
+  object-fit: cover;
+  height: 360px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* адаптив */
+@media (max-width: 1024px) {
+  .video-gallery {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .video-item {
+    height: 300px;
+  }
+}
+
+@media (max-width: 600px) {
+  .video-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .video-item {
+    height: 240px;
+  }
+}
